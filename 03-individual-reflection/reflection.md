@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Phạm Anh Minh
+- Mã học viên: 2A202603009
+- Nhóm: 4 anh em siu nhân
+- Candidate problem nhóm chọn: Trợ lý tổng hợp tiến độ và deadline nhóm
 
 ---
 
@@ -17,21 +17,21 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân | Đưa ra 3 vấn đề về tìm thông tin cũ, đọc tài liệu dài trước deadline và quản lý deadline/lịch học. | Nhóm có thêm các ví dụ gần với trải nghiệm sinh viên để so sánh và gom nhóm. |
+| Pitch Problem Card | Trình bày các vấn đề mình nghĩ ra, nói rõ ai gặp, bị vướng ở đâu và mất bao nhiêu thời gian. | Nhóm dễ so sánh các vấn đề hơn, dù bài được chọn cuối cùng là tổng hợp tiến độ/deadline. |
+| Challenge bài của bạn khác | Hỏi thêm về người gặp vấn đề, cách đo và giới hạn của từng bài. | Nhóm nhận ra một số bài còn quá rộng hoặc chưa có cách làm rõ ràng. |
+| Gom trùng / cluster | Cùng nhóm gom các ý tưởng về tìm kiếm, đọc tài liệu và tổng hợp thông tin thành các nhóm. | Giúp nhóm tách được vấn đề tìm thông tin khỏi vấn đề hỏi lại tiến độ. |
+| Chọn candidate problem | Ủng hộ bài tổng hợp tiến độ và deadline sau khi so sánh người dùng, các bước thực hiện và số liệu của từng bài. | Nhóm chọn được bài có số liệu khá rõ: Team Lead mất 45-60 phút mỗi tuần để hỏi lại tiến độ. |
+| Validation / research | Tìm hiểu Notion, Trello/Asana và Slack/Google Sheets để xem các công cụ này đã giải quyết được phần nào. | Nhóm nhận ra các công cụ này vẫn cần thành viên tự cập nhật, nên reminder và tổng hợp là hai phần đáng thử. |
+| Workflow nhóm | Cùng nhóm vẽ quy trình hiện tại và quy trình sau khi cải thiện, có bước AI nhắc việc, tổng hợp và người kiểm tra lại. | Nhóm nhìn rõ chỗ tắc là bước Team Lead phải hỏi lại, đồng thời biết phải làm gì nếu AI bỏ sót deadline. |
+| Problem Statement | Góp ý làm rõ ai gặp vấn đề, đang vướng ở đâu, ảnh hưởng thế nào, đo bằng gì và AI không làm gì. | Bản Problem Statement có số trước/sau, từ 45-60 phút xuống còn 10-15 phút mỗi tuần và giảm số lần @all. |
+| Rule / Workflow / Agent | Cùng nhóm so sánh việc nhắc cố định, quy trình có AI và Agent tự chạy. | Nhóm chọn Workflow + AI vì vừa đủ cho bài toán, không cần làm Agent phức tạp. |
+| Decision | Cùng nhóm xem lại điều kiện thử nghiệm, dữ liệu cần có và cách quay về Discord/Slack nếu cách mới không hiệu quả. | Nhóm không chọn AI chỉ vì muốn tự động hóa, mà gắn quyết định với cách đo và điều kiện cụ thể. |
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-
+Tôi đóng góp rõ nhất vào phần tìm hiểu công cụ và vẽ quy trình sau khi cải thiện. Tôi cùng nhóm sắp xếp lại các bước thành viên cập nhật, AI nhắc khi cần, AI tổng hợp tiến độ, rồi Team Lead kiểm tra trước khi báo cáo. Tôi cũng nhắc nhóm phải có người kiểm tra lại và cách xử lý khi AI làm sai, vì AI không thể thay trách nhiệm của thành viên.
 ```
 
 ---
@@ -40,13 +40,13 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan | Sau khi tự nghĩ 3 vấn đề, tôi dùng AI để gợi ý thêm theo các lăng kính trong worksheet. | Tôi có thêm cách nhìn và cách gọi tên vấn đề. | Gợi ý của AI thường khá chung chung, ví dụ như trợ lý quản lý thời gian, nhưng không có trải nghiệm cụ thể đi kèm. | Tôi chỉ giữ những vấn đề mình từng gặp hoặc có thể giải thích rõ, như tìm thông tin, đọc tài liệu và lịch học. |
+| Problem Card | Dùng AI để hỏi lại xem ai gặp vấn đề, vướng ở bước nào và có thể đo ra sao. | Tôi nhận ra bài quản lý lịch học của mình còn quá rộng. | AI không biết bài nào phù hợp nhất với nhóm. | Tôi để nhóm dựa vào bằng chứng, quy trình và khả năng làm trong buổi lab để chọn. |
+| Workflow | Dùng AI để gợi ý cách viết quy trình trước và sau, đồng thời phân biệt bước của máy, AI và người. | Sơ đồ 5 bước dễ sắp xếp và dễ nhìn hơn. | AI có thể tự động hóa quá nhiều và quên mất việc thành viên có thể không cập nhật. | Tôi giữ lại bước Team Lead kiểm tra, thông báo khi có vấn đề và cách kiểm tra thủ công. |
+| Research | Dùng AI để gợi ý từ khóa và các công cụ nên xem như Notion, Trello/Asana và Slack/Google Sheets. | Tôi nhanh chóng có khung để tìm hiểu từng công cụ. | Một số thông tin về tính năng hoặc nguồn có thể chưa đúng. | Tôi kiểm tra lại và chỉ giữ kết luận rằng các công cụ này vẫn cần người cập nhật. |
+| Problem Statement | Dùng AI để đọc lại bản nháp và hỏi xem phần người dùng, điểm nghẽn, ảnh hưởng, số đo và giới hạn đã rõ chưa. | Giúp tôi phát hiện chỗ còn mơ hồ, nhất là phần kết nối các công cụ và cách đo. | AI không thể tự xác nhận số 45-60 phút hay quyết định số liệu thay nhóm. | Tôi dựa vào interview, survey và log của nhóm, đồng thời ghi rõ phần nào cần thử thêm. |
+| Rule / Workflow / Agent | Dùng AI để so sánh cách nhắc cố định, quy trình có AI và Agent tự lập kế hoạch. | Giúp tôi hình dung nhanh ưu nhược điểm của từng cách. | AI dễ làm Agent nghe có vẻ tốt hơn dù bài này không cần phức tạp như vậy. | Tôi đồng ý chọn Workflow + AI vì có người kiểm tra lại và phù hợp với các bước nhóm đã vẽ. |
+| Decision | Dùng AI để nghĩ trước về trường hợp AI bỏ sót deadline và phương án không dùng AI. | Nhóm bổ sung được điều kiện thử nghiệm và cách quay lại cách cũ. | AI không biết chính xác nhóm thử nghiệm sẽ dùng công cụ nào và mọi người có cập nhật đều không. | Tôi giữ quyết định Go với điều kiện thử trên nhóm 4-5 người, đo 3 số và dừng nếu thời gian hỏi lại không giảm. |
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
@@ -65,9 +65,9 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-
-
-
+Khi nghe các bạn trình bày, tôi nhận ra một vấn đề tốt không chỉ là mất thời gian mà còn phải có người gặp, có các bước rõ ràng và đo được ảnh hưởng. Ba vấn đề tôi đưa ra là tìm thông tin, đọc tài liệu và quản lý lịch học. Sau đó tôi thấy các vấn đề này đều có thật, nhưng hơi rộng và khó để cả nhóm cùng làm. Lúc đầu tôi nghĩ nhóm chỉ cần nhắc deadline cho nhau, nhưng khi xem lại quy trình, tôi thấy phần mất thời gian nhất là Team Lead phải hỏi lại tiến độ rồi chờ mọi người trả lời. Tôi cũng bị thuyết phục hơn khi thấy nhóm có số liệu 45-60 phút mỗi tuần và 7/8 người trong survey nói họ gặp vấn đề tương tự. Khi làm quy trình mới, tôi hiểu AI chỉ nên nhắc việc và gom thông tin sau khi thành viên cập nhật, còn Team Lead vẫn phải xem lại báo cáo. 
+Phần tôi tham gia rõ nhất là tìm hiểu các công cụ và cùng nhóm vẽ quy trình mới. Tôi thấy khó nhất là viết giới hạn cho bài, vì không thể nói AI sẽ giải quyết luôn việc mọi người quên cập nhật. Tôi nghĩ nhóm không cần làm Agent, vì Team Lead đã là người tạo task và quyết định, AI chỉ cần hỗ trợ vài bước lặp lại. 
+Nếu làm lại, tôi sẽ hỏi sớm hơn nhóm thử nghiệm cụ thể là ai, dùng công cụ nào và đo việc hoàn thành deadline ra sao. Qua bài này, tôi hiểu rằng quyết định làm AI phải đi cùng cách thử, người kiểm tra và cách quay lại cách cũ nếu không hiệu quả.
 ```
 
 ---
